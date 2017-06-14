@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import pandas_datareader as web   # Package and modules for importing data; this code may change depending on pandas versionimport datetime
+import pandas_datareader as web   
 import matplotlib.pyplot as plt
 import cvxopt as opt
 from cvxopt import blas, solvers
